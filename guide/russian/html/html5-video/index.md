@@ -45,14 +45,20 @@ HTML
  
  The "controls" attribute can be set to true or false and will handle whether controls such as the play/pause button or volume slider appear. You set it to true by adding it into the tag, if it is not present in the tag it is set to false. 
 ```
-
+                 HTML Video - Browser Support
+###############################################################
+# Browser            	MP4                    WebM	        Ogg #
+# InternetExplorer   #	YES                   #	NO	      # NO  #
+# Chrome	            # YES                   #	YES	     # YES #
+# Firefox            #	YES	                  # YES	     # YES #
+# Safari	            # YES	                  # NO	      # NO  #
+# Opera	             # YES (from Opera 25)   #	YES      #	YES #
+###############################################################
 HTML
-
-  
-
 \`\` \`
 
 Есть много других атрибутов, которые можно добавить, которые необязательны для настройки видеоплеера на странице. Чтобы узнать больше, нажмите на ссылки ниже.
+
 
 ## Дополнительная информация:
 
